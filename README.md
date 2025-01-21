@@ -1,5 +1,5 @@
 # Ikolist
-the best todo app ever that *makes sense*
+the best todo app ever that *makes sense*  
 by: dusi & eduameli
 
 ## About
